@@ -37,4 +37,4 @@ lint:
 
 
 lint-fix: 
-	npx exlint --fix .
+	npx eslint --fix .
